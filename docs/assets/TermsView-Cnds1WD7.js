@@ -1,0 +1,1 @@
+import{b as e,h as t,x as n}from"./app-azFFwoHT.js";import{t as r}from"./LegalDoc-ZqYpeyFg.js";var i=e({__name:`TermsView`,setup(e){return(e,i)=>(n(),t(r,{"root-key":`terms`}))}});export{i as default};
